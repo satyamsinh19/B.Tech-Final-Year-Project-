@@ -111,37 +111,28 @@ The system was tested under multiple scenarios using a toy train and various obj
 ---
 ## 📁 Project Directory Structure
 
-B.Tech-Final-Year-Project/
-├── Certificate of Approval/
-│   └── Certificate_of_Approval.jpg
-│
-├── Documentation/
-│   ├── Project Report - Group.pdf
-│   └── Project Report - Satyam.pdf
-│
-├── Project Images/
-│   ├── Image 1.jpg
-│   ├── Image 2.jpg
-│   ├── Image 3.jpg
-│   ├── Image 4.jpg
-│   └── Image 5.jpg
-│
-├── Software/
-│   └── Arduino IDE
-│
-├── Presentation/
-│   ├── Automatic Railway Gate Control System.pptx
-│   └── Automatic Railway Gate Control System.pdf
-│
-├── Working Video/
-│   ├── Video 1.mp4
-│   └── Video 2.mp4
-│
-├── Code Used/
-│   └── Code/
-│       └── Code.ino
-│
-└── README.md
+| 📁 Folder / 📄 File             | Description                                  |
+|-------------------------------|----------------------------------------------|
+| 📁 `Certificate of Approval/` | Contains project approval certificate        |
+| └── 📄 `Certificate_of_Approval.jpg` | Scanned certificate image            |
+| 📁 `Documentation/`           | Includes all project reports                 |
+| ├── 📄 `Project Report - Group.pdf` | Group submission report               |
+| └── 📄 `Project Report - Satyam.pdf` | Individual report              |
+| 📁 `Project Images/`          | Photos of hardware and setup                 |
+| ├── 📄 `Image 1.jpg` – `Image 5.jpg` | Collection of 5 setup images        |
+| 📁 `Software/`                | Tools used for programming                   |
+| └── 📄 `Arduino IDE`          | Development environment                      |
+| 📁 `Presentation/`            | PPT and PDF of project presentation          |
+| ├── 📄 `Railway Gate Control System.pptx`              | Editable version                             |
+| └── 📄 `Railway Gate Control System.pdf`               | Printable version                            |
+| 📁 `Working Video/`           | Real demo videos of project working          |
+| ├── 📄 `Video 1.mp4`          | First video                                  |
+| └── 📄 `Video 2.mp4`          | Second video                                 |
+| 📁 `Code Used/Code/`          | Arduino source code                          |
+| └── 📄 `Code.ino`             | Final sketch                                 |
+| 📄 `README.md`                | This documentation file                      |
+
+
 
 
 
