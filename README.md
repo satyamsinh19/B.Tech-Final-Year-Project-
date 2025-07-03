@@ -121,7 +121,7 @@ The system was tested under multiple scenarios using a toy train and various obj
 | 📁 `Project Images/`          | Photos of hardware and setup                 |
 | ├── 📄 `Image 1.jpg` – `Image 5.jpg` | Collection of 5 setup images        |
 | 📁 `Software/`                | Tools used for programming                   |
-| └── 📄 `Arduino IDE`          | Development environment                      |
+| └── 📄 `Software Link.txt`          | Link to Download Arduino IDE                      |
 | 📁 `Presentation/`            | PPT and PDF of project presentation          |
 | ├── 📄 `Railway Gate Control System.pptx`              | Editable version                             |
 | └── 📄 `Railway Gate Control System.pdf`               | Printable version                            |
