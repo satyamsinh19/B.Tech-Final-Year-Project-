@@ -111,37 +111,38 @@ The system was tested under multiple scenarios using a toy train and various obj
 ---
 ## 📁 Project Directory Structure
 
-**Final-Year-Project-GitHub/**
-├── *Certificate of Approval/*
-│ └── Certificate of Approval.jpg
-
-├── *Documentation/*
-│ ├── Project Report - Group.pdf
-│ └── Project Report - Satyam.pdf
-
-├── *Project Images/*
-│ ├── Image 1.jpg
-│ ├── Image 2.jpg
-│ ├── Image 3.jpg
-│ ├── Image 4.jpg
-│ └── Image 5.jpg
-
-├── *Software/*
-│ └── Arduino IDE 
-
-├── *Presentation/*
-│ ├── Automatic Railway Gate Control System.pptx
-│ └── Automatic Railway Gate Control System.pdf
-
-├── *Working Video/*
-│ ├── Video 1.mp4
-│ └── Video 2.mp4
-
-├── *Code Used/*
-├── Code/
-│ └── Code.ino
-
+B.Tech-Final-Year-Project/
+├── Certificate of Approval/
+│   └── Certificate_of_Approval.jpg
+│
+├── Documentation/
+│   ├── Project Report - Group.pdf
+│   └── Project Report - Satyam.pdf
+│
+├── Project Images/
+│   ├── Image 1.jpg
+│   ├── Image 2.jpg
+│   ├── Image 3.jpg
+│   ├── Image 4.jpg
+│   └── Image 5.jpg
+│
+├── Software/
+│   └── Arduino IDE
+│
+├── Presentation/
+│   ├── Automatic Railway Gate Control System.pptx
+│   └── Automatic Railway Gate Control System.pdf
+│
+├── Working Video/
+│   ├── Video 1.mp4
+│   └── Video 2.mp4
+│
+├── Code Used/
+│   └── Code/
+│       └── Code.ino
+│
 └── README.md
+
 
 
 ## 📽️ Demonstration
